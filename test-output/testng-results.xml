@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13815" started-at="2020-04-05T09:03:34Z" finished-at="2020-04-05T09:03:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13815" started-at="2020-04-05T09:03:34Z" finished-at="2020-04-05T09:03:48Z">
+      <class name="KettoAutomation.KettoTest">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:KettoAutomation.KettoTest@77caeb3e]" name="setUpBrowser" is-config="true" duration-ms="4459" started-at="2020-04-05T09:03:34Z" finished-at="2020-04-05T09:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="createFundRaiserMedicalTreatment()[pri:0, instance:KettoAutomation.KettoTest@77caeb3e]" name="createFundRaiserMedicalTreatment" duration-ms="3128" started-at="2020-04-05T09:03:38Z" finished-at="2020-04-05T09:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFundRaiserMedicalTreatment -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:KettoAutomation.KettoTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-04-05T09:03:41Z" finished-at="2020-04-05T09:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:KettoAutomation.KettoTest@77caeb3e]" name="setUpBrowser" is-config="true" duration-ms="3565" started-at="2020-04-05T09:03:41Z" finished-at="2020-04-05T09:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="createFundRaiserNGO()[pri:0, instance:KettoAutomation.KettoTest@77caeb3e]" name="createFundRaiserNGO" duration-ms="2639" started-at="2020-04-05T09:03:45Z" finished-at="2020-04-05T09:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFundRaiserNGO -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:KettoAutomation.KettoTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-04-05T09:03:48Z" finished-at="2020-04-05T09:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- KettoAutomation.KettoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
